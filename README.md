@@ -1,2 +1,2 @@
 # TempTool
-A simple command line monitoring to for Raspberry Pi core temperatures.
+A simple command line monitoring tool for Raspberry Pi core temperatures.
